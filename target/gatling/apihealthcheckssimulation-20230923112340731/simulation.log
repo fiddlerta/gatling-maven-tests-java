@@ -1,0 +1,21 @@
+RUN	apiHealthChecks.ApiHealthChecksSimulation	apihealthcheckssimulation	1695468220731	 	3.9.5
+USER	Retrieve all todos and one particular by id	START	1695468226686
+REQUEST		Get all todos	1695468226675	1695468226689	KO	j.n.ConnectException: Connection refused: no further information
+USER	Retrieve all todos and one particular by id	START	1695468228610
+REQUEST		Get all todos	1695468228608	1695468228611	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get todo by id	1695468228702	1695468228706	KO	j.n.ConnectException: Connection refused: no further information
+USER	Retrieve all todos and one particular by id	END	1695468228708
+USER	Retrieve all todos and one particular by id	START	1695468230605
+REQUEST		Get all todos	1695468230602	1695468230609	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get todo by id	1695468230618	1695468230623	KO	j.n.ConnectException: Connection refused: no further information
+USER	Retrieve all todos and one particular by id	END	1695468230624
+USER	Retrieve all todos and one particular by id	START	1695468232605
+REQUEST		Get all todos	1695468232602	1695468232609	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get todo by id	1695468232618	1695468232621	KO	j.n.ConnectException: Connection refused: no further information
+USER	Retrieve all todos and one particular by id	END	1695468232622
+USER	Retrieve all todos and one particular by id	START	1695468234606
+REQUEST		Get all todos	1695468234603	1695468234609	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get todo by id	1695468234618	1695468234619	KO	j.n.ConnectException: Connection refused: no further information
+USER	Retrieve all todos and one particular by id	END	1695468234620
+REQUEST		Get todo by id	1695468236619	1695468236622	KO	j.n.ConnectException: Connection refused: no further information
+USER	Retrieve all todos and one particular by id	END	1695468236622

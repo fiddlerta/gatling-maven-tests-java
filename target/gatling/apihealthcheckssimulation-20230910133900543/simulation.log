@@ -1,0 +1,21 @@
+RUN	apiHealthChecks.ApiHealthChecksSimulation	apihealthcheckssimulation	1694353140543	 	3.9.5
+USER	Retrieve all todos and one particular by id	START	1694353146781
+REQUEST		Get all todos	1694353146761	1694353146795	OK	 
+USER	Retrieve all todos and one particular by id	START	1694353148717
+REQUEST		Get all todos	1694353148714	1694353148735	OK	 
+REQUEST		Get todo by id	1694353148841	1694353148850	OK	 
+USER	Retrieve all todos and one particular by id	END	1694353148854
+USER	Retrieve all todos and one particular by id	START	1694353150704
+REQUEST		Get all todos	1694353150701	1694353150713	OK	 
+REQUEST		Get todo by id	1694353150747	1694353150755	OK	 
+USER	Retrieve all todos and one particular by id	END	1694353150756
+USER	Retrieve all todos and one particular by id	START	1694353152725
+REQUEST		Get todo by id	1694353152718	1694353152727	OK	 
+USER	Retrieve all todos and one particular by id	END	1694353152728
+REQUEST		Get all todos	1694353152721	1694353152732	OK	 
+USER	Retrieve all todos and one particular by id	START	1694353154719
+REQUEST		Get all todos	1694353154716	1694353154727	OK	 
+REQUEST		Get todo by id	1694353154743	1694353154749	OK	 
+USER	Retrieve all todos and one particular by id	END	1694353154751
+REQUEST		Get todo by id	1694353156735	1694353156743	OK	 
+USER	Retrieve all todos and one particular by id	END	1694353156744
